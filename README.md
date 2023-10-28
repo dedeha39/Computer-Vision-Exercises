@@ -9,8 +9,13 @@
 - Display the original image, equalized image, and histograms.
 
 #### Example Output:
+- Source Image
 ![Source Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Source_Image.jpg)
+
+- Equalization Image
 ![Equalization Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Equalization_Image.jpg)
+
+- Luminance Equalization Image
 ![Luminance Equalization Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Luminance_Equalization_Image.jpg)
 
 
