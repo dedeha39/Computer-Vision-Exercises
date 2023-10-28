@@ -1,1 +1,1 @@
-# Computer-Vision-Exercises
+# Opencv | Histogram Equalization and Image Filtering
