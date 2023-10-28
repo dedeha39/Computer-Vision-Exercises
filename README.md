@@ -9,7 +9,10 @@
 - Display the original image, equalized image, and histograms.
 
 #### Example Output:
-![Histogram Equalization](link_to_histogram_equalization_image)
+![Source Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Source_Image.jpg)
+![Equalization Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Equalization_Image.jpg)
+![Luminance Equalization Image](https://github.com/dedeha39/Opencv-Histogram-Equalization-and-Image-Filtering/blob/main/Histogram_Equalization-Part_1/Outputs/Luminance_Equalization_Image.jpg)
+
 
 ### Part 2: Image Filtering
 
@@ -30,6 +33,4 @@
 - Run the program and experiment with different filters and parameters.
 - Optionally, use trackbars for interactive parameter adjustments.
 
-#### Example Output:
-![Filtered Image](link_to_filtered_image)
 
